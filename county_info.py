@@ -32,5 +32,10 @@ counties = {
         'San Francisco', # city
         'San Francisco', # county
     ),
-    'santa-clara':()
+    'santa-clara':(
+        'https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx',
+        'data/covid_19_santa_clara.csv',
+        None,
+        'Santa Clara'
+    )
 }
